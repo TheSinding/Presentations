@@ -1,10 +1,13 @@
-
 # Bundlers
 
-From the terminal, pop in:
+Simon Sinding
 
-  ```yo reveal:slide "Slide Title"```
+---
 
-Available options:
+## Webpack
 
- ```--markdown --attributes --notes```
+Module bundler
+
+---
+
+![img](https://webpack.github.io/assets/what-is-webpack.png);

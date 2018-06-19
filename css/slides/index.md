@@ -1,11 +1,33 @@
-# Reveal.js and Yeoman is Awesomeness
+# CSS
 
-From the terminal, pop in:
+Simon Sinding
 
-`yo reveal:slide "Slide Title"`
+---
 
-Available options:
+## CSS
 
-`--markdown --attributes --notes`
+Defines **HOW** a website looks
 
--   hey
+---
+
+## In the begining
+
+CSS was haard...
+
+Really hard
+
+Ever tried to center a div ?
+
+---
+
+## Behold our savior
+
+# Flex box
+
+---
+
+## Flex box
+
+Flex makes it easy
+
+More efficient
